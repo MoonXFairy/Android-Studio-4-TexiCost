@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">android_num4_TexiCost</string>
+    <string name="title">計程車費率計算</string>
+    <string name="Hw4_rate">費率</string>
+    <string name="Hw4_distance">距離</string>
+    <string name="Hw4_cost">費用</string>
+    <string name="Hw4_basic">75元</string>
+    <string name="Hw4_costCompute">費用計算</string>
+    <string name="Hw4_each">每</string>
+    <string name="Hw4_meter">公尺，加收</string>
+    <string name="Hw4_dollar">元</string>
+</resources>
